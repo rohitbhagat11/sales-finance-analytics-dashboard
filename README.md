@@ -24,6 +24,8 @@ These figures reflect the dashboard image and may change when filters or source 
 3. Use the dashboard filters to explore the results.
 ## Data and privacy
 Add source data only if you have permission to share it. Remove personal, confidential, or otherwise sensitive information before uploading.
+## Author
+Rohit Bhagat
 ## Tools
 - Microsoft Excel
 - GitHub
