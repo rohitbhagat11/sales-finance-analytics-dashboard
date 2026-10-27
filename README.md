@@ -1,7 +1,7 @@
 # Sales Finance Analytics Dashboard
 An Excel dashboard for exploring sales performance across regions, product categories, sales channels, customer types, and dates.
 ## Dashboard preview
-![Sales dashboard preview](images/sales_dashboard_preview.png)
+![Sales dashboard preview](sales_dashboard_preview.png)
 ## Key metrics shown
 - Total revenue: $2.45M
 - Total orders: 2,000
